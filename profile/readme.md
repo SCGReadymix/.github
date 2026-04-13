@@ -39,7 +39,7 @@ Internal teams are encouraged to:
 ---
 
 ## 📞 Get in Touch
-- **Website:** [scgreadymix.co.id](https://jayamix.co.id/)
+- **Website:** [Jayamix.co.id](https://jayamix.co.id/)
 - **LinkedIn:** [SCG Readymix Indonesia](https://www.linkedin.com/company/scg_2/)
 
 ---
