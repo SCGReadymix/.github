@@ -1,5 +1,7 @@
 <p align="center">
-  <img src=".github/SCG-banner.png" width="100%" alt="SCG Readymix Indonesia Banner">
+  <a href="https://www.scgreadymix.co.id/">
+    <img src=".github/SCG-banner.png" width="100%" alt="SCG Readymix Indonesia Banner" />
+  </a>
 </p>
 
 # SCG Readymix Indonesia 🏗️
