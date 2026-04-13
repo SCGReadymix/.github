@@ -42,4 +42,4 @@ Internal teams are encouraged to:
 - **LinkedIn:** [SCG Readymix Indonesia](https://www.linkedin.com/company/scg_2/)
 
 ---
-*© 2026 SCG Readymix Indonesia. Building a sustainable future.*
+*© 2026 SCG Readymix Indonesia. We Deliver Concrete Solution.*
