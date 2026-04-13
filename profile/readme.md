@@ -1,3 +1,8 @@
+<p align="center">
+  <img src=".github/SCG-banner.png" width="100%" alt="SCG Readymix Indonesia Banner">
+</p>
+<br />
+
 # SCG Readymix Indonesia 🏗️
 
 Welcome to the official GitHub organization of **SCG Readymix Indonesia**. We are committed to delivering high-quality concrete solutions and driving digital transformation in the construction industry.
@@ -34,7 +39,6 @@ Internal teams are encouraged to:
 2. Create feature branches.
 3. Submit Pull Requests for review.
 
-
 ---
 
 ## 📞 Get in Touch
@@ -42,4 +46,4 @@ Internal teams are encouraged to:
 - **LinkedIn:** [SCG Readymix Indonesia](https://www.linkedin.com/company/scg_2/)
 
 ---
-*© 2026 SCG Readymix Indonesia. Building a sustainable future.*
+*© 2026 SCG Readymix Indonesia. We Deliver Concrete Solutions.*
