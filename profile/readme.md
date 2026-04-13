@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/SCG-banner.png" width="100%" alt="SCG Readymix Indonesia Banner">
+  <img src=".github/SCG banner.png" width="100%" alt="SCG Readymix Indonesia Banner">
 </p>
 <br />
 
