@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://www.scgreadymix.co.id/">
-    <img src=".github/SCG-banner.png" width="100%" alt="SCG Readymix Indonesia Banner" />
-  </a>
-</p>
+<img src="../SCG-banner.png" width="100%" alt="SCG Readymix Indonesia Banner" />
 
 # SCG Readymix Indonesia 🏗️
 
