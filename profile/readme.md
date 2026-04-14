@@ -31,13 +31,6 @@ We utilize various technologies to build robust and scalable solutions:
 
 ---
 
-### 📊 Organization Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCG-Readymix-Indonesia&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
-
----
-
 ## 🤝 Collaboration
 Internal teams are encouraged to:
 1. Fork the repositories.
