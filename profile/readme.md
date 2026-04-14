@@ -35,6 +35,7 @@ We utilize various technologies to build robust and scalable solutions:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCG-Readymix-Indonesia&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </p>
+
 ---
 
 ## 🤝 Collaboration
