@@ -1,4 +1,4 @@
-<img src="../SCGbanner.png" width="100%" alt="SCG Readymix Indonesia Banner" />
+<img src=".github/SCGbanner.png" width="100%" alt="SCG Readymix Indonesia Banner" />
 
 # SCG Readymix Indonesia 🏗️
 
